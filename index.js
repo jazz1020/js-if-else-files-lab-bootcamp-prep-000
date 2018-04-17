@@ -1,6 +1,5 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
-nameSelector = "Susan"
 heightSelector = parseInt(70)
 
 
