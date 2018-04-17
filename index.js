@@ -1,5 +1,5 @@
-var name = "Susan"
-var height = parseInt"70"
+var name = "Joe"
+var height = "74"
 
 
 // Don't worry about this
